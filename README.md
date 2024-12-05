@@ -18,7 +18,7 @@ Python and its Libraries- Pandas, Numpy, Matplotlib, and Seaborn
 
 ### Snapshots
 
-![Screenshot 2024-12-05 234627](https://github.com/user-attachments/assets/3420e15b-3015-4c66-88d7-ff37af418b54)
+![Data Analytics](https://github.com/user-attachments/assets/a4a42591-a3a0-4a1d-9930-ab09909660a4)
 
 ![Screenshot 2024-12-05 153120](https://github.com/user-attachments/assets/8157fc3a-2a49-4ce7-9d34-5172065f3c1f)
 
